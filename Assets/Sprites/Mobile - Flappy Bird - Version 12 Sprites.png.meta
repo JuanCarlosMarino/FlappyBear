@@ -50,6 +50,9 @@ TextureImporter:
   - first:
       213: 1399865248621217857
     second: Flappy3
+  - first:
+      213: 8181548382722186305
+    second: Title
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -480,6 +483,27 @@ TextureImporter:
       bones: []
       spriteID: 1484b7dd6025d6310800000000000000
       internalID: 1399865248621217857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 396
+        width: 90
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cd3d808e2ba8170800000000000000
+      internalID: 8181548382722186305
       vertices: []
       indices: 
       edges: []

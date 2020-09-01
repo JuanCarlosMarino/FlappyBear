@@ -4,10 +4,13 @@ using UnityEngine;
 
 public class Fly : MonoBehaviour
 {
+    public GameManager gameManager;
+    
     [Header("Velocity of flight: ")]
     [Tooltip("This field is velocity in unity units")]
     [SerializeField] public float velocity = 1;
 
+    
     private Rigidbody2D _rigidbody2D;
     void Start()
     {
@@ -21,5 +24,10 @@ public class Fly : MonoBehaviour
         {
             _rigidbody2D.velocity = Vector2.up * velocity;
         }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        gameManager.GameOver();
     }
 }

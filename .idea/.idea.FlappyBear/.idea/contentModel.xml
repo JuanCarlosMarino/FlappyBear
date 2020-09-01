@@ -6,10 +6,13 @@
     <e p="C:\Users\JUAN MARIÑO\Documents\GitHub\FlappyBear" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="AnadirPuntaje.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="Fly.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
           <e p="PipeAparicion.cs" t="Include" />
           <e p="PipeMovemente.cs" t="Include" />
+          <e p="Puntaje.cs" t="Include" />
         </e>
       </e>
       <e p="FlappyBear.sln" t="IncludeFlat" />
