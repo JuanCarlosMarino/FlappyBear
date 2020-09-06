@@ -5,6 +5,7 @@ using UnityEngine;
 public class Puntaje : MonoBehaviour
 {
     public static int puntaje = 0;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -16,4 +17,5 @@ public class Puntaje : MonoBehaviour
     {
         GetComponent<UnityEngine.UI.Text>().text = puntaje.ToString();
     }
+    
 }

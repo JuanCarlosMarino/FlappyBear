@@ -21,10 +21,11 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/PipeMovemente.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PipeAparicion.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Fly.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Puntaje.cs" />
         <option value="$PROJECT_DIR$/Assets/AnadirPuntaje.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Fly.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Puntaje.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AnadirPuntaje.cs" />
       </list>
     </option>
   </component>
@@ -70,7 +71,8 @@
       <workItem from="1598926587510" duration="242000" />
       <workItem from="1598980965854" duration="2189000" />
       <workItem from="1598988649783" duration="4070000" />
-      <workItem from="1599049600869" duration="947000" />
+      <workItem from="1599049600869" duration="950000" />
+      <workItem from="1599408227097" duration="5141000" />
     </task>
     <servers />
   </component>
